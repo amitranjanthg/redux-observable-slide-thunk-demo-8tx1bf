@@ -1,0 +1,19 @@
+body {
+  font-family: Lato;
+  background-color: #fafafa;
+  color: #222;
+}
+
+.EventItem {
+  overflow: hidden;
+  margin: .5em 0;
+}
+.EventItem__label {
+  display: inline;
+  margin-left: .5em;
+}
+.EventItem__button {
+  display: inline;
+  text-decoration: underline;
+  cursor: pointer;
+}
